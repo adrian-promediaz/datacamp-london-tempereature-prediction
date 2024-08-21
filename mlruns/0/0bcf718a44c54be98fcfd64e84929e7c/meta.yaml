@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/studytube/OTHER_DOCUMENTS/STUDY/GITHUB_REPOS/datacamp-london-tempereature-prediction/mlruns/0/0bcf718a44c54be98fcfd64e84929e7c/artifacts
+deleted_time: 1724173568409
+end_time: 1724171277471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0bcf718a44c54be98fcfd64e84929e7c
+run_name: run_4
+run_uuid: 0bcf718a44c54be98fcfd64e84929e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724171271444
+status: 3
+tags: []
+user_id: studytube
