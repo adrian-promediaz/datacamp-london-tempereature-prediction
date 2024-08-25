@@ -1,6 +1,6 @@
 # datacamp-tempereature-prediction
 
-This repository is created to tackle the challenge in Datacamp to [predict temperature in London](https://app.datacamp.com/learn/projects/predicting_temperature_in_london/guided/Python). I use the [mlflow](https://mlflow.org/docs/latest/index.html) feature in this project.
+This repository is created to tackle the challenge in Datacamp to [predict temperature in London](https://app.datacamp.com/learn/projects/predicting_temperature_in_london/guided/Python). I use the [MLflow](https://mlflow.org/docs/latest/index.html) feature in this project.
 
 
 As the climate changes, predicting the weather becomes ever more important for businesses. You have been asked to support on a machine learning project with the aim of building a pipeline to predict the climate in London, England. Specifically, the model should predict mean temperature in degrees Celsius (°C).
